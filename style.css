@@ -20,3 +20,16 @@
     }
 
 }
+
+/* Right to left Loading */
+.loading-2 {
+    width: 200px;
+    height: 30px;
+    border: 3px solid #000;
+}
+
+.indicator {
+    height: 30px;
+    background-color: #000;
+    animation: 3s;
+}
