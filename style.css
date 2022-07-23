@@ -1,1 +1,10 @@
+.loading-1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-top: 10px solid #000;
+    border-left: 10px solid #000;
+    border-right: 10px solid #000;
+    animation: spin 500ms infinite linear;
 
+}
