@@ -33,3 +33,19 @@
     background-color: #000;
     animation: 3s;
 }
+
+@keyframes load {
+
+    0% {
+        width: 0%;
+    }
+
+    70% {
+        width: 20%;
+    }
+
+    100% {
+        width: 100%;
+    }
+
+}
